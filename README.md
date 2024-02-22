@@ -10,7 +10,7 @@ This is a simple notes app built with React and Django.
 
 1. Build the app
 ```
-docker build -t notes-app .
+docker build -t notes-app .   
 ```
 
 2. Run the app
